@@ -16,6 +16,7 @@ System.out.println("Number is divisible by 2 & 3");
 else
 {
 System.out.println("Number is not divisible by 2 & 3");
+  System.out.println("This is to check the pull");
 }
 }
 }
